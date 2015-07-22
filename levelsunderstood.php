@@ -80,4 +80,3 @@ function sendOutput($message,$type=2){
     }
     exit;
 }
-?>
